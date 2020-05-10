@@ -1,0 +1,8 @@
+cffi==1.14.0
+cryptography==2.9.2
+protobuf==3.12.0rc1
+pycparser==2.20
+pycryptodome==3.9.7
+python-axolotl==0.2.3
+python-axolotl-curve25519==0.4.1.post2
+six==1.14.0
