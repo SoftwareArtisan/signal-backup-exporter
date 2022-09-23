@@ -1,6 +1,6 @@
 cffi==1.14.0
 cryptography==3.3.2
-protobuf==3.12.0rc1
+protobuf==3.18.3
 pycparser==2.20
 pycryptodome==3.9.7
 python-axolotl==0.2.3
