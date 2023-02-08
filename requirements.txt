@@ -1,5 +1,5 @@
 cffi==1.14.0
-cryptography==3.3.2
+cryptography==39.0.1
 protobuf==3.12.0rc1
 pycparser==2.20
 pycryptodome==3.9.7
